@@ -1,5 +1,7 @@
 h1 {
   color: rgb(255, 0, 0); /* Red text color */
-  font-size: 32px; /* Font size to 32 pixels */
-  font-weight: bold; /* Bold Text */
+  font-size: 60px; /* Font size to 60 pixels */
+  font-family: Arial, sans-serif; /* Sets font to Arial, with fallback */
+  font-weight: bold; /* Bold texts */
+  font-style: italic; /* Makes texts italic */
 }
